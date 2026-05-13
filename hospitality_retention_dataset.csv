@@ -1,0 +1,301 @@
+employee_id,hotel_name,department,years_experience,training_hours_per_year,work_environment_score,welfare_score,job_satisfaction,overtime_hours_per_week,salary_band,promotion_last_5_years,retention_status
+EMP0001,Atlantic Breeze Inn,Sales,16,63,2,7,8,14,Mid,1,1
+EMP0002,Maple Residency,Front Desk,3,88,9,1,6,11,Low,0,0
+EMP0003,Palm Crown Hotel,Food & Beverage,11,118,1,7,3,3,Mid,1,0
+EMP0004,Maple Residency,Front Desk,8,100,8,10,8,14,Low,1,1
+EMP0005,Maple Residency,Security,18,27,4,5,9,10,High,1,1
+EMP0006,Lagoon View Hotel,Housekeeping,11,73,4,6,1,15,High,0,0
+EMP0007,Palm Crown Hotel,Sales,8,38,5,10,9,22,Low,0,1
+EMP0008,Palm Crown Hotel,Housekeeping,6,56,8,7,6,5,High,0,1
+EMP0009,Palm Crown Hotel,Housekeeping,13,16,5,5,6,13,High,0,0
+EMP0010,Maple Residency,Sales,19,102,8,7,4,17,Mid,0,0
+EMP0011,Atlantic Breeze Inn,Food & Beverage,18,85,10,9,1,11,Low,1,1
+EMP0012,Palm Crown Hotel,Security,14,89,1,3,10,10,Mid,0,0
+EMP0013,Aurora Hospitality,Front Desk,15,43,10,8,8,12,Mid,0,1
+EMP0014,Maple Residency,Maintenance,20,24,9,2,2,20,Low,0,0
+EMP0015,Lagoon View Hotel,Front Desk,4,16,6,7,1,22,Low,0,0
+EMP0016,Atlantic Breeze Inn,Maintenance,2,12,3,2,2,10,Mid,0,0
+EMP0017,Aurora Hospitality,Front Desk,11,83,8,4,1,22,Low,0,0
+EMP0018,Aurora Hospitality,Sales,19,24,9,7,1,15,Mid,0,0
+EMP0019,Lagoon View Hotel,Security,20,67,6,3,9,14,High,1,1
+EMP0020,Atlantic Breeze Inn,Maintenance,3,9,7,2,1,20,High,1,0
+EMP0021,Maple Residency,Food & Beverage,20,66,1,10,4,14,Low,0,0
+EMP0022,Eko Suites,Front Desk,15,104,5,7,10,24,High,0,1
+EMP0023,Atlantic Breeze Inn,Front Desk,6,108,5,1,6,3,Low,1,1
+EMP0024,Lagoon View Hotel,Maintenance,12,17,10,8,7,10,Low,0,1
+EMP0025,Aurora Hospitality,Food & Beverage,20,110,4,3,2,18,Mid,0,0
+EMP0026,Maple Residency,Food & Beverage,9,99,6,2,6,14,Low,1,1
+EMP0027,Atlantic Breeze Inn,Sales,6,110,7,3,7,3,Low,0,1
+EMP0028,Eko Suites,Sales,13,85,9,5,10,20,Mid,1,1
+EMP0029,Eko Suites,Sales,4,33,1,8,10,12,Low,0,1
+EMP0030,Palm Crown Hotel,Sales,2,110,6,10,2,21,Low,0,0
+EMP0031,Palm Crown Hotel,Sales,10,7,7,7,2,18,Mid,0,0
+EMP0032,Lagoon View Hotel,Sales,10,39,3,7,10,1,Mid,1,1
+EMP0033,Atlantic Breeze Inn,Security,17,112,8,7,7,13,Mid,0,1
+EMP0034,Atlantic Breeze Inn,Food & Beverage,14,107,5,8,1,3,Low,0,0
+EMP0035,Aurora Hospitality,Sales,11,82,9,1,8,15,Mid,1,1
+EMP0036,Aurora Hospitality,Food & Beverage,8,41,5,4,3,20,Low,0,0
+EMP0037,Aurora Hospitality,Food & Beverage,9,40,9,6,6,19,Low,0,1
+EMP0038,Palm Crown Hotel,Housekeeping,11,100,10,9,9,13,Mid,1,1
+EMP0039,Atlantic Breeze Inn,Security,16,5,4,2,6,14,Low,0,0
+EMP0040,Atlantic Breeze Inn,Sales,5,51,9,1,9,2,Low,1,1
+EMP0041,Eko Suites,Front Desk,6,25,5,10,7,7,Mid,1,1
+EMP0042,Palm Crown Hotel,Maintenance,13,63,10,2,9,15,Mid,1,1
+EMP0043,Maple Residency,Front Desk,12,97,9,7,2,9,Mid,0,0
+EMP0044,Palm Crown Hotel,Security,7,58,3,3,8,3,Low,1,1
+EMP0045,Maple Residency,Maintenance,9,55,4,10,8,17,Low,0,1
+EMP0046,Eko Suites,Security,8,58,9,2,2,1,Low,1,1
+EMP0047,Lagoon View Hotel,Food & Beverage,17,108,10,7,4,16,Low,0,1
+EMP0048,Atlantic Breeze Inn,Maintenance,1,69,6,2,7,12,Mid,0,0
+EMP0049,Eko Suites,Food & Beverage,4,100,2,3,4,3,High,0,0
+EMP0050,Atlantic Breeze Inn,Front Desk,4,32,7,7,4,24,Mid,1,1
+EMP0051,Aurora Hospitality,Front Desk,5,52,2,4,6,10,Mid,1,0
+EMP0052,Lagoon View Hotel,Maintenance,18,21,2,1,10,6,Mid,0,0
+EMP0053,Lagoon View Hotel,Maintenance,7,20,1,5,6,11,Mid,0,0
+EMP0054,Eko Suites,Sales,15,69,3,9,10,9,Low,1,1
+EMP0055,Lagoon View Hotel,Security,12,69,6,8,3,6,Mid,0,0
+EMP0056,Maple Residency,Sales,0,118,8,9,9,12,Mid,0,1
+EMP0057,Lagoon View Hotel,Security,19,111,9,10,10,6,Low,1,1
+EMP0058,Atlantic Breeze Inn,Sales,16,3,7,9,2,23,Low,0,0
+EMP0059,Atlantic Breeze Inn,Food & Beverage,6,93,4,7,6,16,High,1,1
+EMP0060,Atlantic Breeze Inn,Maintenance,12,74,6,4,7,9,Low,0,0
+EMP0061,Atlantic Breeze Inn,Front Desk,3,61,5,5,9,9,Low,0,1
+EMP0062,Maple Residency,Security,3,61,8,1,3,23,Mid,0,0
+EMP0063,Palm Crown Hotel,Security,5,93,1,1,10,3,Mid,1,1
+EMP0064,Aurora Hospitality,Front Desk,18,94,1,3,3,19,Mid,0,0
+EMP0065,Eko Suites,Sales,11,23,6,8,7,3,Mid,1,1
+EMP0066,Atlantic Breeze Inn,Security,6,54,10,2,4,21,Low,0,0
+EMP0067,Lagoon View Hotel,Food & Beverage,9,8,2,4,8,6,Mid,1,1
+EMP0068,Atlantic Breeze Inn,Maintenance,18,118,5,2,7,21,Low,0,0
+EMP0069,Lagoon View Hotel,Front Desk,6,2,1,5,5,0,High,0,0
+EMP0070,Aurora Hospitality,Maintenance,2,114,7,9,7,11,Mid,1,1
+EMP0071,Aurora Hospitality,Security,12,30,1,1,3,23,Low,0,0
+EMP0072,Aurora Hospitality,Security,12,39,4,5,2,12,Low,0,0
+EMP0073,Lagoon View Hotel,Front Desk,17,100,9,9,6,9,Low,1,1
+EMP0074,Atlantic Breeze Inn,Food & Beverage,19,35,1,1,2,14,Low,0,0
+EMP0075,Aurora Hospitality,Housekeeping,7,23,4,9,3,12,Low,1,1
+EMP0076,Maple Residency,Front Desk,8,94,6,8,6,22,Mid,0,0
+EMP0077,Lagoon View Hotel,Housekeeping,6,5,6,4,5,21,Mid,1,1
+EMP0078,Lagoon View Hotel,Sales,0,65,8,10,8,21,Low,0,1
+EMP0079,Atlantic Breeze Inn,Housekeeping,2,83,1,5,9,20,Low,0,0
+EMP0080,Lagoon View Hotel,Food & Beverage,12,91,7,5,3,21,Low,1,0
+EMP0081,Lagoon View Hotel,Sales,16,74,1,6,10,8,High,1,1
+EMP0082,Aurora Hospitality,Housekeeping,0,3,7,7,3,8,Low,0,0
+EMP0083,Atlantic Breeze Inn,Sales,5,78,3,8,3,14,Mid,0,0
+EMP0084,Aurora Hospitality,Housekeeping,20,5,8,8,6,9,High,1,1
+EMP0085,Aurora Hospitality,Food & Beverage,5,117,3,2,1,23,Mid,0,0
+EMP0086,Atlantic Breeze Inn,Housekeeping,11,112,1,9,7,24,High,1,1
+EMP0087,Eko Suites,Housekeeping,12,93,8,7,1,9,Low,1,1
+EMP0088,Aurora Hospitality,Housekeeping,12,119,3,4,5,7,High,0,0
+EMP0089,Maple Residency,Front Desk,14,101,2,4,10,23,Low,0,0
+EMP0090,Maple Residency,Front Desk,20,50,1,8,8,15,Low,1,1
+EMP0091,Lagoon View Hotel,Front Desk,15,61,3,4,4,16,Mid,0,0
+EMP0092,Maple Residency,Food & Beverage,20,56,2,6,5,4,High,0,0
+EMP0093,Lagoon View Hotel,Sales,10,65,2,5,4,3,High,1,0
+EMP0094,Eko Suites,Security,4,78,6,3,4,17,Low,0,0
+EMP0095,Atlantic Breeze Inn,Housekeeping,3,74,1,10,8,23,Low,1,1
+EMP0096,Atlantic Breeze Inn,Housekeeping,2,7,2,2,2,18,High,0,0
+EMP0097,Atlantic Breeze Inn,Food & Beverage,18,25,6,9,1,3,Low,0,0
+EMP0098,Maple Residency,Housekeeping,19,50,3,10,3,6,Mid,0,0
+EMP0099,Eko Suites,Front Desk,17,44,4,9,9,9,High,0,1
+EMP0100,Maple Residency,Security,14,43,1,1,4,24,Mid,0,0
+EMP0101,Maple Residency,Maintenance,8,4,8,10,10,17,Low,0,1
+EMP0102,Eko Suites,Housekeeping,16,69,7,3,5,18,Mid,1,1
+EMP0103,Eko Suites,Front Desk,13,25,7,8,2,3,Low,0,0
+EMP0104,Eko Suites,Maintenance,14,117,3,6,4,9,High,0,0
+EMP0105,Eko Suites,Security,0,67,10,5,2,0,Mid,0,0
+EMP0106,Atlantic Breeze Inn,Maintenance,20,18,10,5,2,22,High,0,0
+EMP0107,Palm Crown Hotel,Front Desk,2,83,3,6,4,17,Low,0,0
+EMP0108,Palm Crown Hotel,Sales,15,96,2,7,6,4,High,0,0
+EMP0109,Eko Suites,Sales,10,19,1,1,7,14,Mid,0,0
+EMP0110,Palm Crown Hotel,Maintenance,11,112,7,9,10,16,Low,0,1
+EMP0111,Palm Crown Hotel,Food & Beverage,9,11,7,3,3,2,Low,0,0
+EMP0112,Eko Suites,Maintenance,15,46,2,4,3,11,Mid,1,0
+EMP0113,Palm Crown Hotel,Housekeeping,7,0,7,10,10,1,Mid,0,1
+EMP0114,Maple Residency,Housekeeping,5,89,8,1,6,0,High,0,0
+EMP0115,Lagoon View Hotel,Sales,11,13,1,10,3,22,Low,1,0
+EMP0116,Lagoon View Hotel,Food & Beverage,20,63,9,3,2,20,Low,0,0
+EMP0117,Eko Suites,Front Desk,7,37,7,2,8,16,Mid,1,1
+EMP0118,Atlantic Breeze Inn,Housekeeping,3,36,3,2,5,21,Low,0,0
+EMP0119,Eko Suites,Sales,7,10,8,1,1,15,Mid,0,0
+EMP0120,Atlantic Breeze Inn,Security,17,99,7,8,3,4,High,0,0
+EMP0121,Lagoon View Hotel,Sales,4,76,8,3,10,14,High,0,1
+EMP0122,Eko Suites,Housekeeping,8,106,6,3,8,2,High,1,1
+EMP0123,Aurora Hospitality,Housekeeping,3,2,9,6,4,6,Mid,0,1
+EMP0124,Maple Residency,Sales,16,32,5,8,7,10,Low,1,1
+EMP0125,Palm Crown Hotel,Front Desk,8,5,3,9,10,9,Mid,0,1
+EMP0126,Atlantic Breeze Inn,Maintenance,0,49,3,9,2,8,Mid,0,0
+EMP0127,Aurora Hospitality,Housekeeping,20,119,1,4,7,13,High,0,0
+EMP0128,Palm Crown Hotel,Sales,19,9,8,5,5,12,Low,0,0
+EMP0129,Palm Crown Hotel,Sales,12,4,2,2,5,24,Mid,0,0
+EMP0130,Eko Suites,Food & Beverage,15,22,3,9,6,24,Low,1,1
+EMP0131,Palm Crown Hotel,Maintenance,12,9,8,8,9,1,Mid,1,1
+EMP0132,Maple Residency,Security,13,43,8,3,6,2,High,0,1
+EMP0133,Aurora Hospitality,Front Desk,2,1,4,9,8,6,Mid,1,1
+EMP0134,Palm Crown Hotel,Security,5,12,4,3,7,20,Low,1,1
+EMP0135,Eko Suites,Maintenance,17,39,5,9,9,17,High,1,1
+EMP0136,Maple Residency,Maintenance,18,1,6,2,4,2,Mid,0,0
+EMP0137,Lagoon View Hotel,Maintenance,4,83,5,10,2,9,Low,1,1
+EMP0138,Aurora Hospitality,Security,14,64,7,9,7,21,Low,0,1
+EMP0139,Palm Crown Hotel,Maintenance,1,62,2,8,6,6,Low,1,1
+EMP0140,Eko Suites,Sales,9,100,7,9,1,8,Low,0,0
+EMP0141,Lagoon View Hotel,Security,17,72,10,5,9,16,High,0,1
+EMP0142,Lagoon View Hotel,Maintenance,12,16,7,2,9,10,Mid,1,1
+EMP0143,Atlantic Breeze Inn,Sales,4,8,1,8,2,6,High,0,0
+EMP0144,Maple Residency,Food & Beverage,0,74,7,6,3,23,Low,1,1
+EMP0145,Palm Crown Hotel,Maintenance,0,14,5,8,5,13,Low,1,1
+EMP0146,Eko Suites,Security,17,23,3,5,5,18,Mid,1,0
+EMP0147,Atlantic Breeze Inn,Housekeeping,14,37,3,10,1,3,Low,0,0
+EMP0148,Maple Residency,Maintenance,16,118,4,2,8,5,Mid,1,1
+EMP0149,Atlantic Breeze Inn,Housekeeping,10,34,2,6,8,9,High,0,0
+EMP0150,Aurora Hospitality,Sales,20,93,2,5,4,6,Mid,0,0
+EMP0151,Maple Residency,Food & Beverage,16,94,1,5,7,12,Mid,1,1
+EMP0152,Maple Residency,Front Desk,12,48,5,1,10,13,Low,0,0
+EMP0153,Palm Crown Hotel,Food & Beverage,0,68,4,2,3,3,Low,0,0
+EMP0154,Maple Residency,Maintenance,1,61,10,8,6,7,Low,1,1
+EMP0155,Atlantic Breeze Inn,Housekeeping,8,59,2,3,10,4,Mid,0,0
+EMP0156,Maple Residency,Housekeeping,2,107,3,10,10,0,Low,0,1
+EMP0157,Palm Crown Hotel,Security,0,49,7,3,9,3,Low,1,1
+EMP0158,Palm Crown Hotel,Housekeeping,20,77,7,8,1,2,Mid,0,0
+EMP0159,Aurora Hospitality,Security,15,116,4,8,5,8,Low,1,1
+EMP0160,Atlantic Breeze Inn,Sales,5,119,5,2,4,7,Low,1,0
+EMP0161,Lagoon View Hotel,Front Desk,16,74,5,8,8,0,Low,1,1
+EMP0162,Lagoon View Hotel,Maintenance,4,8,6,1,1,5,High,1,0
+EMP0163,Maple Residency,Security,4,33,9,6,9,8,Mid,0,1
+EMP0164,Aurora Hospitality,Front Desk,5,75,2,8,6,6,Mid,0,0
+EMP0165,Eko Suites,Housekeeping,2,98,5,3,4,3,Low,1,1
+EMP0166,Maple Residency,Housekeeping,20,34,3,8,9,12,High,1,1
+EMP0167,Aurora Hospitality,Front Desk,4,0,4,1,5,16,Mid,0,0
+EMP0168,Atlantic Breeze Inn,Housekeeping,20,39,10,9,5,1,Low,0,1
+EMP0169,Atlantic Breeze Inn,Sales,4,63,6,9,5,4,High,0,1
+EMP0170,Atlantic Breeze Inn,Sales,9,21,8,5,1,11,Low,0,0
+EMP0171,Atlantic Breeze Inn,Front Desk,9,59,1,10,1,20,Mid,1,0
+EMP0172,Atlantic Breeze Inn,Security,18,63,10,4,8,7,Mid,0,1
+EMP0173,Aurora Hospitality,Security,16,92,8,6,8,5,Low,1,1
+EMP0174,Aurora Hospitality,Front Desk,20,71,7,7,6,7,High,1,1
+EMP0175,Palm Crown Hotel,Security,13,10,1,5,4,17,Mid,0,0
+EMP0176,Lagoon View Hotel,Security,8,104,2,10,2,2,Mid,1,1
+EMP0177,Atlantic Breeze Inn,Sales,13,100,3,9,2,21,Low,0,0
+EMP0178,Eko Suites,Security,0,13,1,3,9,11,Low,0,0
+EMP0179,Aurora Hospitality,Food & Beverage,18,59,9,7,5,2,Low,1,1
+EMP0180,Eko Suites,Maintenance,12,29,8,10,4,21,Mid,1,1
+EMP0181,Eko Suites,Housekeeping,12,34,2,10,10,5,Low,1,1
+EMP0182,Eko Suites,Food & Beverage,3,84,9,5,1,1,Mid,0,0
+EMP0183,Palm Crown Hotel,Security,0,36,7,7,7,22,Mid,0,1
+EMP0184,Aurora Hospitality,Sales,16,4,9,2,3,11,Low,1,1
+EMP0185,Eko Suites,Front Desk,7,82,6,4,6,1,Mid,0,0
+EMP0186,Atlantic Breeze Inn,Security,1,77,6,2,5,5,Low,0,0
+EMP0187,Maple Residency,Sales,7,25,4,7,5,16,High,0,0
+EMP0188,Eko Suites,Maintenance,6,61,10,2,5,2,Mid,1,1
+EMP0189,Palm Crown Hotel,Security,1,3,10,1,1,1,Low,0,0
+EMP0190,Aurora Hospitality,Front Desk,2,88,2,9,1,22,Low,1,0
+EMP0191,Palm Crown Hotel,Sales,17,108,7,1,3,19,Mid,1,0
+EMP0192,Eko Suites,Sales,11,41,5,8,10,7,Mid,0,1
+EMP0193,Aurora Hospitality,Sales,0,88,6,2,4,21,Mid,0,0
+EMP0194,Maple Residency,Maintenance,11,17,2,8,5,11,Mid,0,0
+EMP0195,Eko Suites,Security,4,39,5,3,2,3,Low,1,0
+EMP0196,Palm Crown Hotel,Maintenance,16,71,10,6,8,4,Low,0,1
+EMP0197,Lagoon View Hotel,Housekeeping,15,38,4,3,2,12,Low,0,0
+EMP0198,Atlantic Breeze Inn,Housekeeping,14,103,9,7,9,14,Mid,0,1
+EMP0199,Palm Crown Hotel,Security,14,13,6,10,2,24,High,1,1
+EMP0200,Aurora Hospitality,Maintenance,4,31,2,9,9,22,Mid,0,1
+EMP0201,Eko Suites,Front Desk,20,50,1,2,7,15,Low,1,0
+EMP0202,Atlantic Breeze Inn,Sales,13,37,5,5,8,9,Mid,1,1
+EMP0203,Eko Suites,Sales,1,96,9,6,2,24,High,0,0
+EMP0204,Aurora Hospitality,Security,10,22,6,4,7,22,Mid,1,1
+EMP0205,Eko Suites,Housekeeping,18,62,10,4,6,15,High,0,1
+EMP0206,Lagoon View Hotel,Housekeeping,6,14,7,4,4,11,Low,1,1
+EMP0207,Atlantic Breeze Inn,Sales,5,96,5,2,7,16,Low,1,1
+EMP0208,Atlantic Breeze Inn,Security,1,24,10,4,4,15,High,1,1
+EMP0209,Aurora Hospitality,Maintenance,5,16,6,1,2,11,Mid,0,0
+EMP0210,Lagoon View Hotel,Housekeeping,17,96,5,6,10,7,Low,0,1
+EMP0211,Palm Crown Hotel,Maintenance,1,110,9,1,7,19,Mid,0,0
+EMP0212,Eko Suites,Housekeeping,17,118,6,10,8,2,High,0,1
+EMP0213,Maple Residency,Housekeeping,14,65,8,6,2,15,Mid,0,0
+EMP0214,Eko Suites,Food & Beverage,18,77,2,1,5,12,Mid,0,0
+EMP0215,Eko Suites,Housekeeping,1,52,9,6,1,22,Low,0,0
+EMP0216,Palm Crown Hotel,Front Desk,19,103,5,10,7,18,Mid,0,1
+EMP0217,Eko Suites,Security,5,103,7,8,8,7,Mid,1,1
+EMP0218,Lagoon View Hotel,Security,0,50,10,2,6,21,High,0,0
+EMP0219,Lagoon View Hotel,Maintenance,14,38,1,2,5,4,High,0,0
+EMP0220,Atlantic Breeze Inn,Housekeeping,9,50,10,4,6,19,High,0,1
+EMP0221,Aurora Hospitality,Front Desk,18,69,5,3,2,7,Low,0,0
+EMP0222,Maple Residency,Maintenance,16,5,10,4,1,23,Mid,1,0
+EMP0223,Eko Suites,Food & Beverage,4,66,2,7,7,11,Mid,0,0
+EMP0224,Eko Suites,Maintenance,3,6,6,1,7,0,Mid,1,1
+EMP0225,Palm Crown Hotel,Maintenance,9,50,1,6,10,24,Mid,1,1
+EMP0226,Aurora Hospitality,Housekeeping,16,71,3,3,10,20,High,1,1
+EMP0227,Lagoon View Hotel,Food & Beverage,9,41,5,10,2,19,Mid,1,1
+EMP0228,Maple Residency,Maintenance,16,63,4,7,2,5,Mid,1,1
+EMP0229,Atlantic Breeze Inn,Front Desk,19,115,3,10,1,21,Low,1,0
+EMP0230,Lagoon View Hotel,Front Desk,4,14,10,2,10,17,Low,1,1
+EMP0231,Aurora Hospitality,Security,1,110,5,2,8,7,Mid,0,0
+EMP0232,Atlantic Breeze Inn,Food & Beverage,5,28,8,4,8,6,Mid,1,1
+EMP0233,Palm Crown Hotel,Food & Beverage,20,32,4,1,1,0,Low,0,0
+EMP0234,Palm Crown Hotel,Security,1,115,1,3,8,20,Low,1,0
+EMP0235,Eko Suites,Maintenance,12,93,7,9,9,15,Mid,0,1
+EMP0236,Aurora Hospitality,Food & Beverage,10,102,8,7,4,11,Low,0,0
+EMP0237,Maple Residency,Front Desk,10,26,3,7,1,5,Low,0,0
+EMP0238,Atlantic Breeze Inn,Front Desk,15,35,6,4,1,19,Low,0,0
+EMP0239,Lagoon View Hotel,Housekeeping,10,28,2,2,3,1,Low,0,0
+EMP0240,Aurora Hospitality,Food & Beverage,18,37,7,4,5,13,Low,0,0
+EMP0241,Aurora Hospitality,Maintenance,14,56,8,6,5,3,Low,0,1
+EMP0242,Palm Crown Hotel,Security,15,96,6,3,9,0,Mid,0,1
+EMP0243,Eko Suites,Security,10,100,6,1,10,22,High,1,1
+EMP0244,Eko Suites,Maintenance,15,26,5,8,2,17,Mid,0,0
+EMP0245,Atlantic Breeze Inn,Sales,7,54,8,5,2,12,Mid,0,0
+EMP0246,Palm Crown Hotel,Housekeeping,3,32,1,5,6,1,Low,1,1
+EMP0247,Aurora Hospitality,Security,7,67,10,4,9,8,Low,0,1
+EMP0248,Maple Residency,Food & Beverage,3,85,4,6,1,20,Mid,0,0
+EMP0249,Palm Crown Hotel,Housekeeping,2,65,4,3,9,1,Low,1,1
+EMP0250,Atlantic Breeze Inn,Food & Beverage,2,9,3,9,9,24,Mid,1,1
+EMP0251,Atlantic Breeze Inn,Front Desk,17,4,3,5,9,8,Mid,0,1
+EMP0252,Palm Crown Hotel,Housekeeping,18,73,4,3,5,0,Mid,0,0
+EMP0253,Atlantic Breeze Inn,Security,18,96,1,1,9,10,Low,1,1
+EMP0254,Palm Crown Hotel,Housekeeping,20,117,2,10,4,2,Low,1,1
+EMP0255,Lagoon View Hotel,Housekeeping,4,37,9,6,2,19,Mid,0,0
+EMP0256,Palm Crown Hotel,Housekeeping,17,12,10,2,6,22,Low,1,1
+EMP0257,Palm Crown Hotel,Sales,9,30,2,3,4,3,Mid,0,0
+EMP0258,Atlantic Breeze Inn,Housekeeping,20,46,5,1,6,17,Mid,0,0
+EMP0259,Atlantic Breeze Inn,Food & Beverage,5,99,9,9,3,22,High,0,0
+EMP0260,Eko Suites,Front Desk,0,108,9,8,6,5,Low,1,1
+EMP0261,Eko Suites,Maintenance,4,87,8,2,2,2,High,0,0
+EMP0262,Lagoon View Hotel,Housekeeping,8,51,1,8,2,21,Mid,1,0
+EMP0263,Eko Suites,Security,11,55,1,9,9,10,Low,0,1
+EMP0264,Palm Crown Hotel,Housekeeping,13,14,9,1,7,14,Low,0,0
+EMP0265,Atlantic Breeze Inn,Security,1,28,8,5,3,21,Mid,0,0
+EMP0266,Eko Suites,Food & Beverage,16,7,10,8,1,4,Low,1,1
+EMP0267,Eko Suites,Security,13,4,9,2,8,19,Low,0,0
+EMP0268,Lagoon View Hotel,Maintenance,12,28,7,4,6,9,Low,0,0
+EMP0269,Aurora Hospitality,Front Desk,8,46,3,7,7,11,High,1,1
+EMP0270,Lagoon View Hotel,Security,14,67,3,3,9,14,Mid,0,0
+EMP0271,Palm Crown Hotel,Security,14,75,2,5,5,16,Mid,1,0
+EMP0272,Atlantic Breeze Inn,Front Desk,10,44,5,8,1,9,Low,0,0
+EMP0273,Lagoon View Hotel,Maintenance,15,1,3,10,10,5,Low,1,1
+EMP0274,Eko Suites,Housekeeping,16,26,6,3,7,17,Mid,0,0
+EMP0275,Atlantic Breeze Inn,Security,3,94,2,4,5,12,Mid,1,0
+EMP0276,Atlantic Breeze Inn,Front Desk,0,114,3,9,3,2,Low,0,0
+EMP0277,Eko Suites,Food & Beverage,7,114,5,7,9,23,Mid,0,1
+EMP0278,Lagoon View Hotel,Front Desk,16,35,1,1,1,9,High,0,0
+EMP0279,Eko Suites,Food & Beverage,2,35,1,4,1,13,Mid,0,0
+EMP0280,Aurora Hospitality,Maintenance,19,25,10,4,1,5,Mid,0,0
+EMP0281,Atlantic Breeze Inn,Housekeeping,14,42,9,9,3,2,High,1,1
+EMP0282,Maple Residency,Front Desk,14,26,7,6,6,15,Low,0,0
+EMP0283,Maple Residency,Sales,13,68,1,9,10,6,Mid,1,1
+EMP0284,Palm Crown Hotel,Security,13,19,8,6,3,19,High,1,1
+EMP0285,Eko Suites,Maintenance,1,10,3,6,8,13,Low,1,1
+EMP0286,Eko Suites,Front Desk,12,73,8,5,10,8,Mid,0,1
+EMP0287,Palm Crown Hotel,Security,13,103,5,5,2,14,Mid,0,0
+EMP0288,Palm Crown Hotel,Front Desk,18,37,1,2,9,20,Mid,1,0
+EMP0289,Palm Crown Hotel,Food & Beverage,6,5,7,8,3,2,Mid,1,1
+EMP0290,Atlantic Breeze Inn,Front Desk,2,71,5,8,5,1,High,0,1
+EMP0291,Aurora Hospitality,Sales,14,22,6,1,10,1,Mid,0,1
+EMP0292,Eko Suites,Front Desk,13,46,6,8,8,2,Low,0,1
+EMP0293,Atlantic Breeze Inn,Front Desk,10,89,8,5,2,17,High,1,0
+EMP0294,Palm Crown Hotel,Sales,14,45,9,2,6,13,Low,0,0
+EMP0295,Eko Suites,Maintenance,12,106,2,2,5,19,Low,0,0
+EMP0296,Atlantic Breeze Inn,Front Desk,17,11,9,6,10,17,Mid,1,1
+EMP0297,Aurora Hospitality,Sales,5,89,10,9,9,9,Mid,0,1
+EMP0298,Atlantic Breeze Inn,Security,2,12,9,1,5,24,Mid,0,0
+EMP0299,Aurora Hospitality,Food & Beverage,18,103,10,6,2,1,High,1,1
+EMP0300,Palm Crown Hotel,Food & Beverage,14,61,10,9,5,24,Mid,1,1
